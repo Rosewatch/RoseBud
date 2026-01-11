@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../RoseDistro"
+		},
+		{
+			"path": "../Rosewatch"
+		}
+	],
+	"settings": {}
+}
